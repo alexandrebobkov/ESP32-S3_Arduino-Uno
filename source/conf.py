@@ -15,6 +15,7 @@ release = '1.0'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = []
+#pdf_documents = [('index', u'rst2pdf', u'Sample rst2pdf doc', u'Alexander Bobkov'),]
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -24,5 +25,6 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = 'nature'
+#'alabaster'
 html_static_path = ['_static']
