@@ -1,2 +1,8 @@
 # ESP32-S3_Arduino-Uno
-ESP32-S3 Module embeded on Arduino Uno board
+
+_ESP32-S3 Module embeded on Arduino Uno board_
+
+![ESP32-S3 Arduino Uno]([path/to/image.png](https://github.com/alexandrebobkov/ESP32-S3_Arduino-Uno/blob/main/assets/ESP32-Uno-Board-v2.png))
+
+
+
