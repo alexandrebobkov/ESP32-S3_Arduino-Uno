@@ -3,7 +3,7 @@ description: Build your dreams with ESP32-S3 DevBoard. Prototyping with a human 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
-baseurl: "/ESP32-S3_Uno" # the subpath of your site, e.g. /blog
+baseurl: "/ESP32-S3_Arduino-Uno" # the subpath of your site, e.g. /blog
 url: "https://alexandrebobkov.github.io/" # the base hostname & protocol for your site
 permalink: /:month-:day-:year/:title.html
 
