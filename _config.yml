@@ -17,6 +17,7 @@ kramdown:
 
 header_pages:
   - specs.md
+  - schematic.md
 
 readme_index:
   enabled:          true
