@@ -15,8 +15,8 @@ plugins:
 kramdown:
   syntax_highlighter: coderay
 
-#header_pages:
-#  - about.md
+header_pages:
+  - specs.md
 
 readme_index:
   enabled:          true
