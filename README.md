@@ -6,7 +6,7 @@ _ESP32-S3 Module embeded on Arduino Uno board_
 
 ## I2C Pins
 
-The provided schematic excerpt below shows the wiring of SDA and SCL; SDA is wired to the GPIO 8 and SCL is wired to the GPIO 9 on the ESP32-S3 Module.
+The provided schematic excerpt below shows the wiring of SDA and SCL; __SDA__ is wired to the _GPIO 8_ and __SCL__ is wired to the _GPIO 9_ on the ESP32-S3 Module.
 
 ![ESP32-S3 Module Pinouts](assets/ESP32-Uno-Board-Module-Pinout.png)
 
