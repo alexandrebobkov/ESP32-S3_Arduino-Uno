@@ -6,6 +6,8 @@ _ESP32-S3 Module embeded on Arduino Uno board_
 
 ## I2C Pins
 
+SDA is wired to the GPIO 8 and SCL is wired to the GPIO 9
+
 ![ESP32-S3 Module Pinouts](assets/ESP32-Uno-Board-Module-Pinout.png)
 
 ### Micropython LED Blinky Code
