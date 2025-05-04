@@ -4,10 +4,22 @@ _ESP32-S3 Module embeded on Arduino Uno board_
 
 ![ESP32-S3 Arduino Uno](https://github.com/alexandrebobkov/ESP32-S3_Arduino-Uno/blob/main/assets/ESP32-Uno-Board-v2.png)
 
+
+### Micropython LED Blinky Code
 ```code Python
 import esp, esp32, time, os, _thread
 from machine import Pin, SoftI2C, I2C
-from ina219 import INA219
+
+def status_led():
+    while True:
+        led.value(1)
+        time.sleep_ms(250)
+        led.value(0)
+        time.sleep_ms(250)
+        led.value(1)
+        time.sleep_ms(250)
+        led.value(0)
+        time.sleep_ms(750)
 ```
 
 
