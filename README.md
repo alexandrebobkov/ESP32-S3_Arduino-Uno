@@ -6,6 +6,8 @@ _ESP32-S3 Module embeded on Arduino Uno board_
 
 ## I2C Pins
 
+ESP32-Uno-Board-Module-Pinout.png
+
 
 ### Micropython LED Blinky Code
 ``` python
