@@ -6,7 +6,7 @@ _ESP32-S3 Module embeded on Arduino Uno board_
 
 
 ### Micropython LED Blinky Code
-```code python
+``` python
 import esp, esp32, time, os, _thread
 from machine import Pin, SoftI2C, I2C
 
