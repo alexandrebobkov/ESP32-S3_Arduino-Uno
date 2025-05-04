@@ -24,7 +24,9 @@ def status_led():
 # Display information about ESP32S3 module
 print(os.uname())
 print("Flash size: ", esp.flash_size()/1024/1024, "Mb")
-print("MCU Temperature: ", esp32.mcu_temperature(), "C")
+#rint("MCU Temperature: ", esp32.mcu_temperature(), "C")
+
+print("MCU Temperature: {:4.1f} C".format(esp32.mcu_temperature()))
 
 led = Pin(45, Pin.OUT)
 led.value(0)
