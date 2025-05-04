@@ -20,6 +20,15 @@ def status_led():
         time.sleep_ms(250)
         led.value(0)
         time.sleep_ms(750)
+
+# Display information about ESP32S3 module
+print(os.uname())
+print("Flash size: ", esp.flash_size()/1024/1024, "Mb")
+print("MCU Temperature: ", esp32.mcu_temperature(), "C")
+
+led = Pin(45, Pin.OUT)
+led.value(0)
+_thread.start_new_thread(status_led, ())
 ```
 
 
