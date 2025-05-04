@@ -29,7 +29,7 @@ print("Flash size: ", esp.flash_size()/1024/1024, "Mb")
 #rint("MCU Temperature: ", esp32.mcu_temperature(), "C")
 print("MCU Temperature: {:4.1f} C".format(esp32.mcu_temperature()))
 
-# Configure LED pin and start loop thread
+# Configure LED pin and start the blinky loop thread
 led = Pin(45, Pin.OUT)
 led.value(0)
 _thread.start_new_thread(status_led, ())
