@@ -12,7 +12,7 @@ from machine import Pin, SoftI2C, I2C
 
 # An infinite loop thread to blink LED
 def status_led():
-    # Blink pattern short-short-pause
+    # Blink pattern blink-blink-pause
     while True:
         led.value(1)
         time.sleep_ms(250)
