@@ -10,6 +10,7 @@ The provided schematic excerpt below shows the wiring of SDA and SCL; SDA is wir
 
 ![ESP32-S3 Module Pinouts](assets/ESP32-Uno-Board-Module-Pinout.png)
 
+The image of PCB board below shows the physical location of SDA and SCL terminals.
 ![ESP32-S3 DevBoard Pinouts](assets/ESP32-Uno-Board-GPIO.png)
 
 
