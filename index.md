@@ -12,6 +12,8 @@ title: "ESP32-S3 Uno DevBoard"
 
 ![ESP32-S3 Arduino Uno](assets/ESP32-Uno-assembled.jpg)
 
+<a href="schematic.md"><b>Schematic</b></a>
+
 <a href="{{% link schematic.md %}}">Schematic</a>
 
 <ul>
