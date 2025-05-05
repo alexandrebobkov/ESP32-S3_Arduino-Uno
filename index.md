@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ESP32-S3 Uno DevBoard"
+title: "ESP32-S3 Uno Development Board"
 ---
 
 {{ page.title }}
@@ -13,7 +13,3 @@ title: "ESP32-S3 Uno DevBoard"
 [Schematic](schematic.md)
 
 [Specifications](specs.md)
-
-{{ page.date | date: "%b %d, %Y" }}
-
-{{ site.pages }}
