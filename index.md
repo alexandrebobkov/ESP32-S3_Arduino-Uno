@@ -18,12 +18,13 @@ title: "ESP32-S3 Uno Development Board"
 
 The provided schematic excerpt below shows the wiring of SDA and SCL; __SDA__ is wired to the _GPIO 8_ and __SCL__ is wired to the _GPIO 9_ on the ESP32-S3 Module.
 
-<img src="(assets/ESP32-Uno-Board-Module-Pinout.png" width="50%"/>
+<img src="assets/ESP32-Uno-Board-Module-Pinout.png" width="50%"/>
 
 The image of PCB board below shows the physical location of SDA and SCL terminals.
-<img "assets/ESP32-Uno-Board-GPIO.png" width="50%"/>
+<img src="assets/ESP32-Uno-Board-GPIO.png" width="50%"/>
 
 ### Micropython LED Blinky Code
+
 ``` python
 import esp, esp32, time, os, _thread
 from machine import Pin, SoftI2C
@@ -51,3 +52,4 @@ print("MCU Temperature: {:4.1f} C".format(esp32.mcu_temperature()))
 led = Pin(45, Pin.OUT)
 led.value(0)
 _thread.start_new_thread(status_led, ())
+```
