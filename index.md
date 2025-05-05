@@ -14,6 +14,8 @@ title: "ESP32-S3 Uno DevBoard"
 
 <a href="schematic.md"><b>Schematic</b></a>
 
+[Schematic](schematic.md)
+
 <a href="{{% link schematic.md %}}">Schematic</a>
 
 <ul>
