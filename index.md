@@ -8,7 +8,7 @@ title: "ESP32-S3 Uno DevBoard"
 
 <i>Explore new possibilities with ESP32-S3 UNO Development Board.</i>
 
-<img src="assets/ESP32-Uno-assembled.jpg" width="50%"/>
+<img src="assets/ESP32-Uno-assembled.jpg" width="35%"/>
 
 ![ESP32-S3 Arduino Uno](assets/ESP32-Uno-assembled.jpg)
 
