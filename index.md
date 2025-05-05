@@ -53,60 +53,52 @@ Both the ESP32-S3 UNO Development Board and MicroPython are cost-effective solut
 
 ## Features and Specifications of the ESP32-S3 WROOM Module
 __Core Components:__
-Microprocessor: Xtensa® dual-core 32-bit LX7 microprocessor, operating up to 240 MHz.
-Memory:
-384 KB ROM
-512 KB SRAM
-16 KB SRAM in RTC
-Up to 16 MB PSRAM
+  - Microprocessor: Xtensa® dual-core 32-bit LX7 microprocessor, operating up to 240 MHz.
+  - Memory:
+    - 384 KB ROM
+    - 512 KB SRAM
+    - 16 KB SRAM in RTC
+    - Up to 16 MB PSRAM
 
 __Connectivity:__
-Wi-Fi:
-Standards: 802.11b/g/n
-Bit rate: Up to 150 Mbps (802.11n)
-Frequency range: 2412 ~ 2484 MHz
-Features: A-MPDU and A-MSDU aggregation, 0.4 μs guard interval support
-Bluetooth:
-Standards: Bluetooth 5, Bluetooth mesh
-Speed: 125 Kbps, 500 Kbps, 1 Mbps, 2 Mbps
-Features: Advertising extensions, multiple advertisement sets, channel selection algorithm #2
-Co-existence mechanism: Internal co-existence mechanism between Wi-Fi and Bluetooth to share the same antenna
+  - Wi-Fi:
+    - 802.11b/g/n, up to 150 Mbps (802.11n), frequency range: 2412 ~ 2484 MHz
+    - Features: A-MPDU and A-MSDU aggregation, 0.4 μs guard interval support
+  - Bluetooth:
+    - Bluetooth 5, Bluetooth mesh, 125 Kbps, 500 Kbps, 1 Mbps, 2 Mbps
+    - Features: Advertising extensions, multiple advertisement sets, channel selection algorithm #2
+  - Co-existence mechanism: Internal co-existence mechanism between Wi-Fi and Bluetooth to share the same antenna
 
 __Peripherals:__
-GPIOs: Up to 36 GPIOs, including 4 strapping GPIOs
-Interfaces:
-SPI
-LCD interface
-Camera interface
-UART
-I2C
-I2S
-Remote control
-Pulse counter
-LED PWM
-Full-speed USB 2.0 OTG
-USB Serial/JTAG controller
-MCPWM
-SDIO host controller
-GDMA
-TWAI® controller (compatible with ISO 11898-1)
-ADC
-Touch sensor
-Temperature sensor
-Timers and watchdogs
+  - GPIOs: Up to 36 GPIOs, including 4 strapping GPIOs
+  - Interfaces:
+    - SPI
+    - LCD interface
+    - Camera interface
+    - __UART__
+    - __I2C__
+    - __I2S__
+    - Remote control
+    - __Pulse counter__
+    - __LED PWM__
+    - Full-speed USB 2.0 OTG
+    - USB Serial/JTAG controller
+    - __MCPWM__
+    - SDIO host controller
+    - GDMA
+    - TWAI® controller (compatible with ISO 11898-1)
+    - ADC
+    - Touch sensor
+    - Temperature sensor
+    - Timers and watchdogs
 
 __Integrated Components:__
-Crystal Oscillator: 40 MHz
-Flash: Up to 16 MB Quad SPI flash
-Antenna Options
-ESP32-S3-WROOM-1: On-board PCB antenna
-ESP32-S3-WROOM-1U: External antenna via a connector
-Operating Conditions
-Operating Voltage: 3.0 ~ 3.6 V
-Ambient Temperature:
-Standard version: –40 ~ 65 °C
-Extended version: –40 ~ 85 °C
-High-temperature version: –40 ~ 105 °C
+  - Crystal Oscillator: 40 MHz
+  - Flash: Up to 16 MB Quad SPI flash
+  - Antenna: on-board PCB antenna
+__Operating Conditions:__
+  - Operating Voltage: 3.0 ~ 3.6 V
+  - Ambient Temperature: –40 ~ 65 °C
 
 __Certifications:__
 RF Certification: Various certifications available
