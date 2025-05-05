@@ -15,3 +15,5 @@ title: "ESP32-S3 Uno DevBoard"
 [Specifications](specs.md)
 
 {{ page.date | date: "%b %d, %Y" }}
+
+{{ site.pages }}
