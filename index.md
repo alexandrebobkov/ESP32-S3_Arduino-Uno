@@ -96,6 +96,7 @@ __Integrated Components:__
   - Crystal Oscillator: 40 MHz
   - Flash: Up to 16 MB Quad SPI flash
   - Antenna: on-board PCB antenna
+
 __Operating Conditions:__
   - Operating Voltage: 3.0 ~ 3.6 V
   - Ambient Temperature: –40 ~ 65 °C
