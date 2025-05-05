@@ -8,7 +8,7 @@ title: "ESP32-S3 Uno DevBoard"
 
 <i>Explore new possibilities with ESP32-S3 UNO Development Board.</i>
 
-<img src="https://github.com/alexandrebobkov/ESP32-S3_Arduino-Uno/blob/main/assets/ESP32-Uno-assembled.jpg"></img>
+<img src="assets/ESP32-Uno-assembled.jpg">
 
 ![ESP32-S3 Arduino Uno](https://github.com/alexandrebobkov/ESP32-S3_Arduino-Uno/blob/main/assets/ESP32-Uno-assembled.jpg)
 
