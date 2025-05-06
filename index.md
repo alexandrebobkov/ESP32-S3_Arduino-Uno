@@ -16,6 +16,8 @@ title: "ESP32-S3 Uno Development Board"
 
 [Specs](specs.md)
 
+[Troubleshooting](troubleshooting.md)
+
 ## Compatibility with MicroPython
 
 Integrating the ESP32-S3 UNO Development Board with MicroPython offers several compelling benefits:
