@@ -16,7 +16,7 @@ title: "ESP32-S3 Uno Development Board"
 
 [Specs](specs.md)
 
-[Troubleshooting](troubleshooting.md)
+[Troubleshooting Steps](troubleshooting.md)
 
 ## Compatibility with MicroPython
 
