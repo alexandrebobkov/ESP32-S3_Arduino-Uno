@@ -6,9 +6,9 @@ title: "Troubleshooting Steps"
 {{ page.title }}
 ================
 
-# Cannot Flash Micropython
+# Cannot Flash a Firmware
 
-## Symptoms
+## List of Symptoms:
 
 ### Thonny shows error while flashing firmware (or Micropython) using Windows
 Possible causes:
