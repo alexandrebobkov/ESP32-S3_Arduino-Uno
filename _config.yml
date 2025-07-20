@@ -3,8 +3,11 @@ description: Build your prototypes with a human touch.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
-baseurl: "/ESP32-S3_Arduino-Uno" # the subpath of your site, e.g. /blog
-url: "https://alexandrebobkov.github.io/" # the base hostname & protocol for your site
+#github hosted
+#baseurl: "/ESP32-S3_Arduino-Uno" # the subpath of your site, e.g. /blog
+#url: "https://alexandrebobkov.github.io/" # the base hostname & protocol for your site
+baseurl: "/"
+url: "https://devboard.techquadbit.net/"
 permalink: /:month-:day-:year/:title.html
 
 plugins:
