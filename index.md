@@ -6,15 +6,12 @@ title: "ESP32-S3 Uno Development Board"
 {{ page.title }}
 ================
 
-<i>Discover new opportunities with the ESP32-S3 UNO Development Board.</i>
-<p>Unlock a world of innovative possibilities with the ESP32-S3 UNO Development Board. This versatile platform empowers developers to create cutting-edge applications, leveraging its advanced features and robust performance. Whether you're working on IoT projects, embedded systems, or automation tasks, the ESP32-S3 UNO Development Board offers the flexibility, power and quick implementation needed to bring your ideas to life.</p>
-<p>Explore its capabilities and push the boundaries of your creativity and technical expertise.</p>
+<i>Explore new frontiers the ESP32-S3 UNO Development Board.</i>
+<p>Unlock a world of innovative possibilities with the ESP32-S3 UNO Development Board. With this versatile development board you may create cutting-edge IoT devices, leveraging the advanced features and robust performance of ESP32-S3 WROOM module. Whether you're working on IoT projects, embedded systems, or projects, the ESP32-S3 UNO Development Board offers the flexibility, power and quick implementation needed to bring your ideas to life.</p>
 
 <img src="assets/ESP32-Uno-assembled.jpg" width="35%"/>
 
 [Schematic](schematic.md)
-
-[Specs](specs.md)
 
 [Troubleshooting Steps](troubleshooting.md)
 
