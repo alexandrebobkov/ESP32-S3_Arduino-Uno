@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'ESP32-S3 Arduino Uno'
-copyright = '2024, Alexander Bobkov'
+copyright = '2026, Alexander Bobkov'
 author = 'Alexander Bobkov'
 release = '1.0'
 
@@ -35,7 +35,7 @@ html_static_path = ['_static']
 #simplepdf_css = '_static/simplepdf_alex.css'
 simplepdf_coverpage = True
 simplepdf_toc_depth = 3
-simplepdf_title = 'ESP-IDF ESPNOW RC Car'
+simplepdf_title = 'ESP32-S3 Arduino Uno DevBoard'
 simplepdf_author = 'Alexander B'
 simplepdf_file_name = 'ESP32-S3_Arduino-Uno.pdf'
 simplepdf_vars = {
@@ -48,6 +48,6 @@ simplepdf_vars = {
 #   'cover-bg': 'url(ESP32C3_Breadboard-Adapter.jpg) no-repeat center',
     'cover': "#EC4A0A",
     'links': "#790000",
-    'bottom-center-content': '"Getting RC Up and Running"',
+    'bottom-center-content': '"Building Your Custom-Made ESP32-S3 Development Board"',
     'bottom-right-content': '"Alexander B"',
 }
