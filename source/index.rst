@@ -23,3 +23,5 @@ Uno development board.*
    :caption: Contents:
 
    0_overview
+   1_schematic_design
+   2_pcb_layout
