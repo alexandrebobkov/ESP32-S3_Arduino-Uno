@@ -9,3 +9,10 @@ Layout Outline
 
 Components Placement
 --------------------
+
+Routing
+-------
+
+Silkscreen
+-----------
+
