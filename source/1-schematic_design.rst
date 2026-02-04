@@ -7,5 +7,8 @@ Schematic Setup
 Symbols
 -------
 
+Annotation and Component Values
+--------------------------------
+
 
 
