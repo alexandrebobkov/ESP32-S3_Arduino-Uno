@@ -14,7 +14,9 @@ release = '1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    "sphinx_simplepdf",
+]
 #pdf_documents = [('index', u'rst2pdf', u'Sample rst2pdf doc', u'Alexander Bobkov'),]
 
 templates_path = ['_templates']
@@ -25,6 +27,27 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'nature'
+html_theme = 'alabaster'
 #'alabaster'
 html_static_path = ['_static']
+
+# -- Options for simplepdf output --------------------------------------------
+#simplepdf_css = '_static/simplepdf_alex.css'
+simplepdf_coverpage = True
+simplepdf_toc_depth = 3
+simplepdf_title = 'ESP-IDF ESPNOW RC Car'
+simplepdf_author = 'Alexander B'
+simplepdf_file_name = 'ESP32-S3_Arduino-Uno.pdf'
+simplepdf_vars = {
+#    'cover-overlay': '#047e2c',
+#    'cover-bg': "#034b1b",
+#    'primary-opaque': 'rgba(26, 150, 26, 0.8)',
+    'primary': "#1A961A",
+    'secondary': "#379683",
+    'cover-bg': 'url(cover-bg.jpg) no-repeat center',
+#   'cover-bg': 'url(ESP32C3_Breadboard-Adapter.jpg) no-repeat center',
+    'cover': "#EC4A0A",
+    'links': "#790000",
+    'bottom-center-content': '"Getting RC Up and Running"',
+    'bottom-right-content': '"Alexander B"',
+}
