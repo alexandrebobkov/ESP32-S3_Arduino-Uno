@@ -1,18 +1,11 @@
 SCHEMATIC DESIGN
 =================
 
-Layout Setup
-------------
+Schematic Setup
+---------------
 
-Layout Outline
---------------
-
-Components Placement
---------------------
-
-Routing
+Symbols
 -------
 
-Silkscreen
------------
+
 
