@@ -11,7 +11,8 @@ The schematic design for this development board is based on the technical guidel
 for ESP32-S3 WROOM module.
 
 ESP32-S3 WROOM is a widely used microcontroller module. It is compact and packs significant
-computing power and capabilities.*
+computing power and capabilities. The image below showcases the 3D model of completed ESP32-S3
+Uno development board.*
 
 .. image:: ESP32-Uno.png
   :width: 600
