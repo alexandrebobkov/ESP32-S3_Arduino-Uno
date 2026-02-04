@@ -18,11 +18,6 @@ Uno development board.*
   :width: 600
   :alt: ESP32-S3 WROOM Arduino Uno Board
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
